@@ -1,5 +1,12 @@
-# 💫 About Me:
-# Hi, I'm Intan 👋  <br>Web Developer | Minimalist UI Enthusiast<br><br>I love building clean, simple, and modern web interfaces.  <br>Currently exploring better UI/UX practices and creating small web projects for fun.
+## 💫 About Me
+Hi, I'm Intan 👋  
+<sub>Web Developer | Minimalist UI Enthusiast</sub>
+
+<small>
+I love building clean, simple, and modern web interfaces.  
+Currently exploring better UI/UX practices and creating small web projects for fun.
+</small>
+
 
 
 ## 🌐 Socials:
